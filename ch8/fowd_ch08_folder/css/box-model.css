@@ -5,7 +5,10 @@
 }
 /* write example css below */
 .box {
+	
 	color: red;
+	
+	border-style: solid;
 	
 	border-color: grey;
 	
@@ -27,11 +30,11 @@
 	
 	/*border-left-color: grey;*/
 	
-	border-top-style: solid;
+	/*border-top-style: solid;*/
 
-	border-right-style: solid;
+	/*border-right-style: solid;*/
 
-	border-bottom-style: solid;
+	/*border-bottom-style: solid;*/
 
-	border-left-style: solid;
+	/*border-left-style: solid;*/
 	}
