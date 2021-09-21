@@ -9,13 +9,15 @@
 	
 	border-color: grey;
 	
-	border-top-width: 5px;
+	border-width: 10px;
 	
-	border-right-width: 10px;
+	/*border-top-width: 5px;*/
 	
-	border-bottom-width: 5px;
+	/*border-right-width: 10px;*/
 	
-	border-left-width: 10px;
+	/*border-bottom-width: 5px;*/
+	
+	/*border-left-width: 10px;*/
 	
 	/*border-top-color: blue;*/
 	
