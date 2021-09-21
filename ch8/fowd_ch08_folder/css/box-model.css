@@ -7,9 +7,6 @@
 .box {
 	color: red;
 	
-	border-style: solid;
-	
-	border-color: grey;
-	
-	border-width: 10px;
+	border: 10px solid grey;
+
 	}
