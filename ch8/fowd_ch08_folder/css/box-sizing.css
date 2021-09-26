@@ -11,6 +11,14 @@ body{background: url(../images/layout_grid.gif);}
 }
 /* child container */
 
+*{
+	-moz-box-sizing: border-box;
+	/*vendor prefix for firefox*/
+	-webkit-box-sizing: border-box;
+	/*vendor prefix for webkit*/
+	box-sizing: border-box;
+}
+
 .box{
 	background-color: gold;
 	width: 400px;
